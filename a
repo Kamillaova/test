@@ -1,1 +1,1 @@
-return this.get;
+return true;
